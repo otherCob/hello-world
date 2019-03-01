@@ -1,5 +1,4 @@
 # hello-world
-My personal playground.
 
-Cob here. I like video games and the creation of video games.
-Pizza, ice tea, coffee.
+## 2019.03.01
+Trying to learn Git properly. 
